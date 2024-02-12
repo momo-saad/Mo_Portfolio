@@ -1,4 +1,4 @@
-# Mohamed saad _portfolio
+# Mohamed saad_portfolio
 
 
 # [Project 1st :In this project, we display data for a group of people in North America and Europe]
@@ -8,3 +8,4 @@
    2-Average annual income
    3-Distance of the workplace from home
    4-Educational level for each category
+  
