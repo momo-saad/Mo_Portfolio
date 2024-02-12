@@ -2,7 +2,7 @@
 
 determine some points: the number of people who own or do not own a bike in several directions.
 
-Their ages.
-Average annual income.
-Distance of the workplace from home.
-Educational level for each category.
+•	Their ages.
+•	Average annual income.
+•	Distance of the workplace from home.
+•	Educational level for each category.
