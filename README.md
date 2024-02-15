@@ -14,7 +14,7 @@ Determine Some Points: The Number Of People Who Own Or Do Not Own A Bike In Seve
 
 # [Project 2: This Data Analysis Project Aims To Answer Several Questions Related To Salaries In Different Job Titles.](https://github.com/momo-saad/Mohamed_Portfolio/files/14296741/salary_prediction_data.And.Dashboard.Analysis.xlsx)
 
-The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20for%20project%20.sql) To Extract Data and Excel to Create a Dashboard For Visualization.
+The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20for%20project%202%20.sql) To Extract Data and Excel to Create a Dashboard For Visualization.
 
  *	Average Salary For Each Job Title
  *	Effect Of Education Level on Salary
