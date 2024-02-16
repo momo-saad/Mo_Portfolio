@@ -30,3 +30,7 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 *  Profit by Month and Year
 *  Sum of Profit by Country
 *  Sales by Product and Segment
+
+# Dashboard
+![Screenshot 2024-02-16 202440](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/bc603329-0a86-411e-ace1-84aa8f817058)
+
