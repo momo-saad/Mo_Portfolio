@@ -34,5 +34,6 @@ On some points: The number of people who buy a bicycle in several directions.
 *  Sales by Product and Segment
 
 # Dashboard
-![Screenshot 2024-02-16 202440](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/bc603329-0a86-411e-ace1-84aa8f817058)
+![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/4433ce0b-067a-4f0d-b1c3-d6eb005cd082)
+
 
