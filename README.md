@@ -14,6 +14,17 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 # Report 
 ![Screenshot 2024-02-23 154839](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/03a9840c-5ec8-4592-81ad-c3b5cbcfc19c)
 
+# [Project 2: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
+
+On some points: The number of people who buy a bicycle in several directions.
+ * Their ages.
+ * Average annual income.
+ * The workplace is far from home.
+ * Educational level for each category.
+
+# Report
+![Screenshot 2024-02-23 204002](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/3d2d27ae-44f5-404e-9dc0-19958dc202ed)
+
 # [Project 3: Executive Summary – Finance](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 
 *  Profit by Month and Year
