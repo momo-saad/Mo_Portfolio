@@ -1,5 +1,5 @@
-# PROJECTS
 
+# EXCEL PROJECTS
 # [Project 1: This Data Analysis Project Aims To Answer Several Questions Related To Salaries In Different Job Titles.](https://github.com/momo-saad/Mohamed_Portfolio/files/14296741/salary_prediction_data.And.Dashboard.Analysis.xlsx)
 
 The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20for%20project%202%20.sql) To Extract Data and Excel to Create a Dashboard For Visualization.
@@ -24,6 +24,8 @@ On some points: The number of people who buy a bicycle in several directions.
 
 # Report
 ![Screenshot 2024-02-23 204002](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/3d2d27ae-44f5-404e-9dc0-19958dc202ed)
+
+# POWER BI PROJECTS
 
 # [Project 3: Executive Summary – Finance](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 
