@@ -35,13 +35,10 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 
 # Report 1
 ![Understanding Customer Preferences Report](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/224bfd78-8db1-44a9-bbd9-dbb50bef3cdd)
-
 # Report 2
 ![Improve Pricing Strategy Report](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/00bf3ec5-a7b5-4db3-870e-cca16c18918b)
-
 # Report 3
 ![Improve Agent Performance Report](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/0aee9b5c-fb65-4576-a067-8f77d2ae88d9)
-
 # Report 4
 ![Identifying Market Trends](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/f2c03fc0-6dbe-417c-9b20-fc6b3ebf7532)
 
