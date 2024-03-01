@@ -25,13 +25,14 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 # Report 
 ![Screenshot 2024-02-23 154839](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/03a9840c-5ec8-4592-81ad-c3b5cbcfc19c)
 
-# [Project 3:The company wants to obtain the necessary reports to reach its goals through the available data.](https://github.com/momo-saad/Mohamed_Portfolio/files/14450017/Car.Sales.xlsx.-.car_data.xlsx)
+# [Project 3:The company wants to obtain the necessary reports to reach its goals through the available data.](https://github.com/momo-saad/Mohamed_Portfolio/files/14461356/Car.Sales.xlsx.-.car_data.xlsx)
+
 The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20Project%203.sql)To Extract Data From Database and Excel to Create a Dashboard For Visualization.
 
-*  Understanding Customer Preferences
-*  Improve Pricing Strategy
-*  Improve Agent Performance
-*  Identifying Market Trends
+ *  Understanding Customer Preferences
+ *  Improve Pricing Strategy
+ *  Improve Agent Performance
+ *  Identifying Market Trends
 
 # Report 1
 ![Understanding Customer Preferences Report](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/224bfd78-8db1-44a9-bbd9-dbb50bef3cdd)
