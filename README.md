@@ -48,12 +48,11 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 # POWER BI PROJECTS
 
 # [Project 1: Executive Summary – Finance](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
-
 *  Profit by Month and Year
 *  Sum of Profit by Country
 *  Sales by Product and Segment
 
 # Dashboard
-![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/4433ce0b-067a-4f0d-b1c3-d6eb005cd082)
+![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/ffb24448-8146-4f12-9328-c131203f3213)
 
 
