@@ -55,8 +55,8 @@ The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio
 # Dashboard
 ![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/ffb24448-8146-4f12-9328-c131203f3213)
 
-# [Project 2: ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%202%20(HR%20Dashboard).pbix)
 
+# [Project 2: The purpose of this project is to create a dashboard for the Human Resources Department](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%202%20(HR%20Dashboard).pbix)
 
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
