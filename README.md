@@ -4,7 +4,6 @@
 *  Profit by Month and Year
 *  Sum of Profit by Country
 *  Sales by Product and Segment
-
 # Dashboard
 ![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/ffb24448-8146-4f12-9328-c131203f3213)
 
@@ -13,7 +12,6 @@
 *  Current employee overview
 *  Analysis of employee turnover
 *  Insights for modifying employment plans and policies
-
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
 
@@ -26,6 +24,8 @@ Power BI for analysis and visualization.
 * Order volume trends.
 * Inventory turnover rates.
 * Customer order patterns.
+# Dashboard
+![Screenshot 2024-05-26 183927](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/4b241c7f-e729-4cc1-9d86-8458ab98b96f)
 
 # PYTHON PROJECTS
 
@@ -43,44 +43,34 @@ Power BI for analysis and visualization.
 Better inventory control, streamlined supply chain operations, increased
 customer satisfaction, and improved sales forecasting.
 
-
 # EXCEL PROJECTS
 
 # [Project 1: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
-
 On some points: The number of people who buy a bicycle in several directions.
  * Their ages.
  * Average annual income.
  * The workplace is far from home.
  * Educational level for each category.
-
 # Report
 ![Screenshot 2024-02-23 204002](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/3d2d27ae-44f5-404e-9dc0-19958dc202ed)
 
 # [Project 2: This Data Analysis Project Aims To Answer Several Questions Related To Salaries In Different Job Titles.](https://github.com/momo-saad/Mohamed_Portfolio/files/14296741/salary_prediction_data.And.Dashboard.Analysis.xlsx)
-
-The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20for%20project%202%20.sql) To Extract Data and Excel to Create a Dashboard For Visualization.
-
+The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20for%20project%202%20.sql) To Extract Data and Excel to Create a Dashboard For Visualization
  *	Average Salary For Each Job Title
  *	Effect Of Education Level on Salary
  *	Differences In Salaries Between Locations
  *	Gender Pay Gap
  *	Effect Of Experience on Salary
  *	The relationship between age and average salaries
-
 # Report 
 ![Screenshot 2024-02-23 154839](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/03a9840c-5ec8-4592-81ad-c3b5cbcfc19c)
 
 # [Project 3:The company wants to obtain the necessary reports to reach its goals through the available data.](https://github.com/momo-saad/Mohamed_Portfolio/files/14461403/Car.Sales.xlsx.-.car_data.xlsx)
-
-
 The Project Utilizes [SQL Server](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/SQLQuery%20Project%203.sql)To Extract Data From Database and Excel to Create a Dashboard For Visualization.
-
  *  Understanding Customer Preferences
  *  Improve Pricing Strategy
  *  Improve Agent Performance
  *  Identifying Market Trends
-
 # Report 1
 ![Understanding Customer Preferences Report](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/224bfd78-8db1-44a9-bbd9-dbb50bef3cdd)
 # Report 2
