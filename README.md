@@ -1,4 +1,4 @@
-# POWER BI PROJECTS
+![Screenshot 2024-05-27 000908](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/d699bb77-bc2b-43c1-ba15-1d374e3683b1)# POWER BI PROJECTS
 
 # [Project 1: Executive Summary – Finance ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 # Key Features:
@@ -25,9 +25,10 @@ Power BI for analysis using DAX and visualization.
 * Order volume trends.
 * Inventory turnover rates.
 * Customer order patterns.
-# Dashboard
-![Screenshot 2024-05-26 183927](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/4b241c7f-e729-4cc1-9d86-8458ab98b96f)
+# Dashboard 
+![Screenshot 2024-05-27 000908](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/cd7ca084-d63f-40cb-bcb8-d2397248113f)
 
+#####################################################################################################################################################################################################################
 # PYTHON PROJECTS
 
 # [Project 1: Order Dataset Analysis ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%20(Order%20Dataset).ipynb)
@@ -44,6 +45,8 @@ Power BI for analysis using DAX and visualization.
 Better inventory control, streamlined supply chain operations, increased
 customer satisfaction, and improved sales forecasting.
 
+
+#####################################################################################################################################################################################################################
 # EXCEL PROJECTS
 
 # [Project 1: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
