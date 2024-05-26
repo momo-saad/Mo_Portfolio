@@ -17,7 +17,7 @@
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
 
-# [Project 3: Analyzing sales data using DAX]
+# [Project 3: Analyzing sales data using DAX](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Online%20store%20sales%20data%20(DAX).pbix)
 # Objective: 
 Analyze sales data to optimize inventory, enhance customer satisfaction, and identify sales trends.
 # Tools:
