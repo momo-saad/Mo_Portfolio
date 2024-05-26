@@ -1,6 +1,7 @@
 # POWER BI PROJECTS
 
 # [Project 1: Executive Summary – Finance ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
+# Key Features:
 *  Profit by Month and Year
 *  Sum of Profit by Country
 *  Sales by Product and Segment
