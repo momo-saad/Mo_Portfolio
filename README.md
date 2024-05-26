@@ -20,7 +20,7 @@
 # Objective: 
 Analyze sales data to optimize inventory, enhance customer satisfaction, and identify sales trends.
 # Tools:
-Power BI for analysis and visualization.
+Power BI for analysis using DAX and visualization.
 # Key Analytics:
 * Order volume trends.
 * Inventory turnover rates.
