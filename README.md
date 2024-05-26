@@ -1,5 +1,3 @@
-![Screenshot 2024-05-27 000908](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/d699bb77-bc2b-43c1-ba15-1d374e3683b1)# POWER BI PROJECTS
-
 # [Project 1: Executive Summary – Finance ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 # Key Features:
 *  Profit by Month and Year
