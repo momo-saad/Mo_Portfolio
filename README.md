@@ -28,7 +28,7 @@ Power BI for analysis using DAX and visualization.
 # Dashboard 
 ![Screenshot 2024-05-27 000908](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/cd7ca084-d63f-40cb-bcb8-d2397248113f)
 
-#####################################################################################################################################################################################################################
+
 # PYTHON PROJECTS
 
 # [Project 1: Order Dataset Analysis ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%20(Order%20Dataset).ipynb)
@@ -46,7 +46,6 @@ Better inventory control, streamlined supply chain operations, increased
 customer satisfaction, and improved sales forecasting.
 
 
-#####################################################################################################################################################################################################################
 # EXCEL PROJECTS
 
 # [Project 1: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
