@@ -8,7 +8,6 @@
 # Dashboard
 ![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/ffb24448-8146-4f12-9328-c131203f3213)
 
-
 # [Project 2: Develop a dashboard for the Human Resources Department to assist in employee management and policy adjustments.](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%202%20(HR%20Dashboard).pbix)
 # Key Features:
 *  Current employee overview
@@ -17,6 +16,16 @@
 
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
+
+# [Project 3: Analyzing sales data using DAX]
+# Objective: 
+Analyze sales data to optimize inventory, enhance customer satisfaction, and identify sales trends.
+# Tools:
+Power BI for analysis and visualization.
+# Key Analytics:
+* Order volume trends.
+* Inventory turnover rates.
+* Customer order patterns.
 
 # PYTHON PROJECTS
 
