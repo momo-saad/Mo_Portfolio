@@ -9,7 +9,7 @@
 ![Screenshot 2024-02-23 210022](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/ffb24448-8146-4f12-9328-c131203f3213)
 
 
-# [Project 2: : Develop a dashboard for the Human Resources Department to assist in employee management and policy adjustments.](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%202%20(HR%20Dashboard).pbix)
+# [Project 2: Develop a dashboard for the Human Resources Department to assist in employee management and policy adjustments.](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%202%20(HR%20Dashboard).pbix)
 # Key Features:
 *  Current employee overview
 *  Analysis of employee turnover
@@ -18,21 +18,21 @@
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
 
-## PYTHON PROJECTS
+# PYTHON PROJECTS
 
-## [Project 1: Order Dataset Analysis ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%20(Order%20Dataset).ipynb)
+# [Project 1: Order Dataset Analysis ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/Project%20(Order%20Dataset).ipynb)
 # Objective:
  Analyze order data to improve inventory management, optimize supply
  chain processes, enhance customer satisfaction, and identify sales trends.
  Tools Used: Python for data extraction, analysis, and visualization creation.
 # Key Analyses:
-* Order volume trends
-* Inventory turnover rates
-* Supplier performance evaluation
-* Customer order patterns
+ * Order volume trends
+ * Inventory turnover rates
+ * Supplier performance evaluation
+ * Customer order patterns
 # Benefits:
- Better inventory control, streamlined supply chain operations, increased
- customer satisfaction, and improved sales forecasting.
+Better inventory control, streamlined supply chain operations, increased
+customer satisfaction, and improved sales forecasting.
 
 
 ## EXCEL PROJECTS
