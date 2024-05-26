@@ -1,5 +1,4 @@
-
-# POWER BI PROJECTS
+## POWER BI PROJECTS
 
 # [Project 1: Executive Summary – Finance ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 *  Profit by Month and Year
@@ -19,9 +18,24 @@
 # Dashboard
 ![Screenshot 2024-03-04 212646](https://github.com/momo-saad/Mohamed_Portfolio/assets/133122558/e3ddd06e-60c6-4ef6-a477-76ebbc853c54)
 
-# PYTHON PROJECTS
+## PYTHON PROJECTS
 
-# EXCEL PROJECTS
+## Project 1: Order Dataset Analysis
+# Objective:
+ Analyze order data to improve inventory management, optimize supply
+ chain processes, enhance customer satisfaction, and identify sales trends.
+ Tools Used: Python for data extraction, analysis, and visualization creation.
+# Key Analyses:
+* Order volume trends
+* Inventory turnover rates
+* Supplier performance evaluation
+* Customer order patterns
+# Benefits:
+ Better inventory control, streamlined supply chain operations, increased
+ customer satisfaction, and improved sales forecasting.
+
+
+## EXCEL PROJECTS
 
 # [Project 1: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
 
