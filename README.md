@@ -1,4 +1,4 @@
-## POWER BI PROJECTS
+# POWER BI PROJECTS
 
 # [Project 1: Executive Summary – Finance ](https://github.com/momo-saad/Mohamed_Portfolio/blob/main/project%201.pbix)
 *  Profit by Month and Year
@@ -35,7 +35,7 @@ Better inventory control, streamlined supply chain operations, increased
 customer satisfaction, and improved sales forecasting.
 
 
-## EXCEL PROJECTS
+# EXCEL PROJECTS
 
 # [Project 1: In this Excel project, we show data for a group of people in North America,the Pacific and Europe .](https://github.com/momo-saad/Mohamed_Portfolio/files/14389009/Excel.Project.Dataset.1.xlsx)
 
