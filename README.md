@@ -43,6 +43,8 @@ Power BI for analysis using DAX and visualization.
 Better inventory control, streamlined supply chain operations, increased
 customer satisfaction, and improved sales forecasting.
 
+# [Project 2: Python(OOP)](https://github.com/momo-saad/Mohamed-Saad-ElSayed_Portfolio/blob/main/Python%20Project%20(OOP).ipynb)
+
 
 # EXCEL PROJECTS
 
