@@ -47,6 +47,7 @@ customer satisfaction, and improved sales forecasting.
 
 # [Project 3: k-NN Classification on Iris Dataset](https://github.com/momo-saad/Mohamed-Saad-ElSayed_Portfolio/blob/main/k-NN%20Classification%20on%20Iris%20Dataset.ipynb)
 
+# [Project 4: MNIST Classification using Deep Learning](https://github.com/momo-saad/Mohamed-Saad-ElSayed_Portfolio/blob/main/MNIST%20Classification%20using%20Deep%20Learning%20.ipynb)
 
 
 # EXCEL PROJECTS
