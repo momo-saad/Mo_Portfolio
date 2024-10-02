@@ -45,6 +45,9 @@ customer satisfaction, and improved sales forecasting.
 
 # [Project 2: Python(OOP)](https://github.com/momo-saad/Mohamed-Saad-ElSayed_Portfolio/blob/main/Python%20Project%20(OOP).ipynb)
 
+# [Project 3: Machine Learning Using (K-NN)](https://github.com/momo-saad/Mohamed-Saad-ElSayed_Portfolio/blob/main/Project%20Machine%20Learning%20Using%20(K-NN).ipynb)
+
+
 
 # EXCEL PROJECTS
 
